@@ -15,4 +15,8 @@ A small collection of Bash scripts for audio file conversion using FFmpeg.
 
 3.  Drag same ".command" file onto your terminal window, and hit ENTER to execute.
 
+### contact
+
+- tyler@codebycandle.com
+
 ### enjoy!
